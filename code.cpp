@@ -1,1 +1,2 @@
 Int x
+Int y
